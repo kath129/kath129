@@ -1,4 +1,3 @@
 - 👋 Hi, I’m @kath129
 - 👀 I’m interested in Data analysis and Business Intelligence
-- 🌱 I’m currently learning Python to delve into machine learning soon
-- 📫 Reach out to me here: https://www.linkedin.com/in/katherine-heang/
+- 🌱 I’m currently learning Python
